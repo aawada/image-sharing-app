@@ -1,0 +1,52 @@
+#Main_Text{
+  
+    margin-top: 60px;
+  
+}
+
+#Image_Place{
+    position:absolute;
+    top: 350px;
+    right: 150px;
+}
+
+#Bottom_Buttons{
+  position:absolute;
+  top:400px;
+  left:430px; 
+ margin-bottom: 100px;
+  
+}
+    
+#Bottom_Buttons2{
+  position:absolute;
+  top:440px;
+  left:480px; 
+margin-bottom: 100px;
+    
+}
+
+
+#logo{
+    position:absolute;
+    top: 70px;
+    left: 150px;
+}
+
+#container2{
+    
+    width: 600px;
+    background-color: green;
+    position: absolute;
+    top: 30px;
+    right:100px;
+    
+}
+
+#logo2{
+     position:fixed; top:30%; left:2%; 
+}
+
+#button1{
+    position:fixed; top:50%; left:2%; 
+}

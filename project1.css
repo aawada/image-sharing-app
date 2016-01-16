@@ -1,0 +1,58 @@
+#Main_Text{
+    float:right;
+    margin-top: 30px;
+    height:600px;
+    width:600px;
+    border: 4px groove MidnightBlue ;
+    background-image: url(images/blank-postcard-10977180.jpg);
+    background-size: 300px 600px;
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+
+#Left_Side{
+    float:left;
+    margin-top: 200px;
+    width:500px;
+}
+
+#row1{
+    position:absolute;
+    height: 100px;
+}
+
+#row2{
+    position:absolute;
+    top:330px;
+    left:700px;
+    height:200px;
+    width:200px;
+   
+}
+
+#Image_Place{
+    position:absolute;
+    margin-top: 60px;
+    top:150px;
+    height:515px;
+    width:280px;
+    right:110px;
+}
+
+#Bottom_Buttons{
+    
+  position:absolute;
+  top:480px;
+  right:600px; 
+  width:300px;
+}
+
+#Bottom_Buttons2{
+    
+  position:absolute;
+  top:690px;
+  right:710px; 
+  width:100px;
+}
+
